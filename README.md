@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my profile! 
+Welcome to my profile! I am Min, a bioinformatics and computational biology scientist. I love using Python and R to explore the fascinating connections between biology and data science! 
 
 
 
